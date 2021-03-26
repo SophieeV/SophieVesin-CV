@@ -2,7 +2,7 @@
 @font-face {
   font-family: "starship_inline_grungeregular";
   src: url("/home/sophie/projet/exercices/bootstrap/CVnumérique2/fonts/starship font/starshipinlinegrunge-webfont.eot");
-  src: url("/home/sophie/projet/exercices/bootstrap/CVnumérique2/fonts/starship font/starshipinlinegrunge-webfont.eot") format("embedded-opentype"), url("/home/sophie/projet/exercices/bootstrap/CVnumérique2/fonts/starship font/starshipinlinegrunge-webfont.woff2") format("woff2"), url("/home/sophie/projet/exercices/bootstrap/CVnumérique2/fonts/starship font/starshipinlinegrunge-webfont.woff") format("woff"), url("/home/sophie/projet/exercices/bootstrap/CVnumérique2/fonts/starship font/starshipinlinegrunge-webfont.ttf") format("truetype"), url("/home/sophie/projet/exercices/bootstrap/CVnumérique2/fonts/starship font/starshipinlinegrunge-webfont.svg") format("svg");
+  src: url("/home/sophie/projet/exercices/bootstrap/CVnumérique2/fonts/starship font/starshipinlinegrunge-webfont.eot") format("embedded-opentype"), url("/home/sophie/projet/exercices/bootstrap/CVnumérique2/fonts/starship font/starshipinlinegrunge-webfont.woff2") format("woff2"), url("/home/sophie/projet/exercices/bootstrap/CVnumérique2/fonts/starship font/starshipinlinegrunge-webfont.woff") format("woff"), url("starshipinlinegrunge-webfont.ttf") format("truetype"), url("starshipinlinegrunge-webfont.svg") format("svg");
   font-weight: normal;
   font-style: normal;
 }

@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'starship_inline_grungeregular';
-    src: url('starshipinlinegrunge-webfont.eot');
-    src: url('starshipinlinegrunge-webfont.eot') format('embedded-opentype'),
-         url('starshipinlinegrunge-webfont.woff2') format('woff2'),
-         url('starshipinlinegrunge-webfont.woff') format('woff'),
+    src: url('/home/sophie/projet/exercices/bootstrap/CVnumérique2/fonts/starship font/starshipinlinegrunge-webfont.eot');
+    src: url('/home/sophie/projet/exercices/bootstrap/CVnumérique2/fonts/starship font/starshipinlinegrunge-webfont.eot') format('embedded-opentype'),
+         url('/home/sophie/projet/exercices/bootstrap/CVnumérique2/fonts/starship font/starshipinlinegrunge-webfont.woff2') format('woff2'),
+         url('/home/sophie/projet/exercices/bootstrap/CVnumérique2/fonts/starship font/starshipinlinegrunge-webfont.woff') format('woff'),
          url('starshipinlinegrunge-webfont.ttf') format('truetype'),
          url('starshipinlinegrunge-webfont.svg') format('svg');
     font-weight: normal;
@@ -11,34 +11,34 @@
   }
     @font-face {
         font-family: 'amaranteregular';
-        src: url('amarante.regular-webfont.eot');
-        src: url('amarante.regular-webfont.eot') format('embedded-opentype'),
-             url('amarante.regular-webfont.woff2') format('woff2'),
-             url('amarante.regular-webfont.woff') format('woff'),
-             url('amarante.regular-webfont.ttf') format('truetype'),
-             url('amarante.regular-webfont.svg') format('svg');
+        src: url('fonts/amarante/amarante.regular-webfont.eot');
+        src: url('fonts/amarante/amarante.regular-webfont.eot') format('embedded-opentype'),
+             url('fonts/amarante/amarante.regular-webfont.woff2') format('woff2'),
+             url('fonts/amarante/amarante.regular-webfont.woff') format('woff'),
+             url('fonts/amarante/amarante.regular-webfont.ttf') format('truetype'),
+             url('fonts/amarante/amarante.regular-webfont.svg') format('svg');
         font-weight: normal;
         font-style: normal;
     }
     @font-face {
         font-family: 'gothic_extrasb';
-        src: url('gothicextras_b-webfont.eot');
-        src: url('gothicextras_b-webfont.eot') format('embedded-opentype'),
-             url('gothicextras_b-webfont.woff2') format('woff2'),
-             url('gothicextras_b-webfont.woff') format('woff'),
-             url('gothicextras_b-webfont.ttf') format('truetype'),
-             url('gothicextras_b-webfont.svg') format('svg');
+        src: url('fonts/gothic extra b/gothicextras_b-webfont.eot');
+        src: url('fonts/gothic extra b/gothicextras_b-webfont.eot') format('embedded-opentype'),
+             url('fonts/gothic extra b/gothicextras_b-webfont.woff2') format('woff2'),
+             url('fonts/gothic extra b/gothicextras_b-webfont.woff') format('woff'),
+             url('fonts/gothic extra b/gothicextras_b-webfont.ttf') format('truetype'),
+             url('fonts/gothic extra b/gothicextras_b-webfont.svg') format('svg');
         font-weight: normal;
         font-style: normal;
     }
     @font-face {
         font-family: 'gothic_extrase';
-        src: url('gothicextras_e-webfont.eot');
-        src: url('gothicextras_e-webfont.eot') format('embedded-opentype'),
-             url('gothicextras_e-webfont.woff2') format('woff2'),
-             url('gothicextras_e-webfont.woff') format('woff'),
-             url('gothicextras_e-webfont.ttf') format('truetype'),
-             url('gothicextras_e-webfont.svg') format('svg');
+        src: url('fonts/gothic extra e/gothicextras_e-webfont.eot');
+        src: url('fonts/gothic extra e/gothicextras_e-webfont.eot') format('embedded-opentype'),
+             url('fonts/gothic extra e/gothicextras_e-webfont.woff2') format('woff2'),
+             url('fonts/gothic extra e/gothicextras_e-webfont.woff') format('woff'),
+             url('fonts/gothic extra e/gothicextras_e-webfont.ttf') format('truetype'),
+             url('fonts/gothic extra e/gothicextras_e-webfont.svg') format('svg');
         font-weight: normal;
         font-style: normal;
     }
