@@ -4,19 +4,19 @@
     src: url('fonts/starship/starshipinlinegrunge-webfont.eot') format('embedded-opentype'),
          url('fonts/starship/starshipinlinegrunge-webfont.woff2') format('woff2'),
          url('fonts/starship/starshipinlinegrunge-webfont.woff') format('woff'),
-         url('starshipinlinegrunge-webfont.ttf') format('truetype'),
-         url('starshipinlinegrunge-webfont.svg') format('svg');
+         url('fonts/starship/starshipinlinegrunge-webfont.ttf') format('truetype'),
+         url('fonts/starship/starshipinlinegrunge-webfont.svg') format('svg');
     font-weight: normal;
     font-style: normal;
   }
     @font-face {
         font-family: 'amaranteregular';
-        src: url('/fonts/amarante/amarante.regular-webfont.eot');
-        src: url('/fonts/amarante/amarante.regular-webfont.eot') format('embedded-opentype'),
-             url('/fonts/amarante/amarante.regular-webfont.woff2') format('woff2'),
-             url('/fonts/amarante/amarante.regular-webfont.woff') format('woff'),
-             url('/fonts/amarante/amarante.regular-webfont.ttf') format('truetype'),
-             url('/fonts/amarante/amarante.regular-webfont.svg') format('svg');
+        src: url('fonts/amarante/amarante.regular-webfont.eot');
+        src: url('fonts/amarante/amarante.regular-webfont.eot') format('embedded-opentype'),
+             url('fonts/amarante/amarante.regular-webfont.woff2') format('woff2'),
+             url('fonts/amarante/amarante.regular-webfont.woff') format('woff'),
+             url('fonts/amarante/amarante.regular-webfont.ttf') format('truetype'),
+             url('fonts/amarante/amarante.regular-webfont.svg') format('svg');
         font-weight: normal;
         font-style: normal;
     }
@@ -162,7 +162,7 @@ body
   {
     font-family : 'gothic_extrasb';
     font-size : 90px;
-    rotate: (180deg);
+    rotate: (-180deg);
   }
 
 }
