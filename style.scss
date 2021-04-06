@@ -45,9 +45,13 @@
 /*---- mixins--*/
 @mixin MainTypography
 {
-  font-family: 'amaranteregular', sans-serif;
+  font-family: 'arial', sans-serif;
   color: white;
   font-size: 20px;
+}
+@mixin FontAmarante
+{
+  font-family:'amaranteregular',sans-serif;
 }
 @mixin TitleTypography
 {
@@ -144,6 +148,7 @@ body
 {
   padding-top: 2%;
   font-size: 25px;
+  @include FontAmarante;
   .deco1
   {
     font-family : 'gothic_extrasb';
@@ -157,6 +162,7 @@ body
   justify-content: center;
   align-items: center;
   font-size: 25px;
+  @include FontAmarante;
   @include ElementDroite;
   .deco2
   {
@@ -172,6 +178,7 @@ body
   .link
   {
     color: white;
+    text-decoration: underline;
   }
 }
 .link:hover
@@ -186,16 +193,22 @@ body
 .T2 /*titres*/
 {
   font-size: 25px;
+  @include FontAmarante
+}
+h3
+{
+  font-size: 20px;
 }
 .t3 /*sous-titres*/
 {
-  font-size: 15px;
+  font-size: 18px;
 }
 /*----formation----*/
 /*----pro----*/
 .T1 /*titres*/
 {
   font-size: 25px;
+  @include FontAmarante
 }
 .bordure
 {
@@ -206,7 +219,7 @@ body
 /*----competences---*/
 .CGauche, .CMilieu, .CDroite
 {
-  font-size: 25px;
+  font-size: 22px;
 }
 /*----competences ----*/
 /*----centres d'intérêts---*/
